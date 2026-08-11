@@ -1,0 +1,8 @@
+# Public repo = landing page + release download only.
+# The source code is NOT published — this folder only holds the page files.
+/*
+!/README.md
+!/LICENSE
+!/.gitignore
+!/images/
+!/images/**
