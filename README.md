@@ -1,6 +1,6 @@
 # Volume+
 
-[![VirusTotal: 0/68 clean](https://img.shields.io/badge/VirusTotal-0%2F68%20clean-brightgreen?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/a13a61aad869a3eea2e797efd0d72ad69ed59490e9a5c28dfd58fdd9cf35293b)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-scan%20it-blue?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/a9990e2cd894cae6acd9580e44c8ca008b947fbb85f6d73c8cd4734c17efbbb4)
 [![Downloads](https://img.shields.io/github/downloads/veax-project/VolumePlus/total?logo=github&label=downloads)](https://github.com/veax-project/VolumePlus/releases)
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)](#)
 [![Free to use](https://img.shields.io/badge/price-free-success)](#)
@@ -38,16 +38,17 @@ Volume+ drives Equalizer APO's engine for you — you never have to touch it.
 
 ## 🚀 Install
 
-1. Install **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)** (free), tick
-   your speakers/headset during setup, and reboot once.
-2. Download `VolumePlus.exe` from the [Releases](../../releases) page.
-3. Double-click it. That's it — no installation.
+1. Download `VolumePlus.exe` from the [Releases](../../releases) page and run it.
    *(Windows SmartScreen may warn because the exe isn't code-signed →
    "More info" → "Run anyway".)*
+2. On first launch, Volume+ **walks you through** installing
+   **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)** (free) — tick your
+   speakers/headset in its setup, then reboot once.
+3. Reopen Volume+ and slide it up. That's it.
 
 ## 🛡️ Is it safe?
 
-- **[Clean on VirusTotal: 0 / 68 detections](https://www.virustotal.com/gui/file/a13a61aad869a3eea2e797efd0d72ad69ed59490e9a5c28dfd58fdd9cf35293b)** — VirusTotal indexes by file hash, so that link always shows the current result for this exact `.exe`. Scan it yourself anytime.
+- **[Scan it on VirusTotal](https://www.virustotal.com/gui/file/a9990e2cd894cae6acd9580e44c8ca008b947fbb85f6d73c8cd4734c17efbbb4)** — VirusTotal indexes by file hash, so this link always shows the current result for this exact `.exe`. Scan it yourself anytime.
 - **No account, no telemetry, no network calls** — Volume+ only writes a small local config file that tells Equalizer APO how loud to go.
 - **Single-purpose** — one small tool that does exactly one thing.
 
