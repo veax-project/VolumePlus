@@ -1,6 +1,6 @@
 # Volume+
 
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-scan%20it-blue?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/20592d7750f69b4ba3362f78ccba24418f59e3ac0f3e03bc7fac4a3aaefeb423)
+[![VirusTotal: 0/68 clean](https://img.shields.io/badge/VirusTotal-0%2F68%20clean-brightgreen?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/20592d7750f69b4ba3362f78ccba24418f59e3ac0f3e03bc7fac4a3aaefeb423)
 [![Downloads](https://img.shields.io/github/downloads/veax-project/VolumePlus/total?logo=github&label=downloads)](https://github.com/veax-project/VolumePlus/releases)
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)](#)
 [![Free to use](https://img.shields.io/badge/price-free-success)](#)
@@ -48,7 +48,7 @@ Volume+ drives Equalizer APO's engine for you — you never have to touch it.
 
 ## 🛡️ Is it safe?
 
-- **[Scan it on VirusTotal](https://www.virustotal.com/gui/file/20592d7750f69b4ba3362f78ccba24418f59e3ac0f3e03bc7fac4a3aaefeb423)** — VirusTotal indexes by file hash, so this link always shows the current result for this exact `.exe`. Scan it yourself anytime.
+- **[Clean on VirusTotal: 0 / 68 detections](https://www.virustotal.com/gui/file/20592d7750f69b4ba3362f78ccba24418f59e3ac0f3e03bc7fac4a3aaefeb423)** — VirusTotal indexes by file hash, so this link always shows the current result for this exact `.exe`. Scan it yourself anytime.
 - **No account, no telemetry, no network calls** — Volume+ only writes a small local config file that tells Equalizer APO how loud to go.
 - **Single-purpose** — one small tool that does exactly one thing.
 
