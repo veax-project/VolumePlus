@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <EnableWindowsFormsAnalyzers>false</EnableWindowsFormsAnalyzers>
+    <AssemblyName>VolumePlus</AssemblyName>
+    <ApplicationIcon>Assets\VolumePlus.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <Product>Volume+</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\VolumePlus.ico" />
+  </ItemGroup>
+
+</Project>

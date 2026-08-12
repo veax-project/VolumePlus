@@ -74,9 +74,14 @@ applies a gain of `20 · log10(N / 100)` dB (200% = +6 dB, 500% ≈ +14 dB), liv
 
 Your setting is stored in `%AppData%\VolumePlus\config.json`.
 
+## 🛠️ Build from source
+
+It's a single .NET 10 WinForms project. Clone the repo and run:
+
+```
+dotnet build -c Release
+```
+
 ## 📄 License
 
-**Proprietary — © 2026 Veax. All rights reserved.**
-
-Volume+ is **free to download and use**. You may not copy, modify, redistribute,
-sell, or reverse-engineer it. See [LICENSE](LICENSE) for details.
+MIT — © 2026 Veax. Free to use, modify and share. See [LICENSE](LICENSE).
